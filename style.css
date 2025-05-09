@@ -59,3 +59,7 @@ main{
         left: 100%;
     }
 }
+
+.d img {
+	filter: drop-shadow(420px 420px 1200px #07367a );
+}
