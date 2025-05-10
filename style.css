@@ -25,6 +25,14 @@ body{
     }
 }
 
+table img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 8;
+    transition: .5s ease;
+}
+
 main{
     width: min(1200px, 90vw);
     margin: auto;
